@@ -1,0 +1,26 @@
+# Phyto Thrive Labs
+
+> Phyto Thrive Labs is a Brain Health & Cognitive Wellness Supplement. Phytomem One is a once-daily dietary supplement from Phyto Thrive Labs designed to support brain health, memory, and cognitive wellness. It comes in capsule form and is intended to be taken as part of a daily routine to help maintain mental clarity and focus. The formula is positioned for adults looking to support their cognitive function as they age.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://phytomemone-com.onrender.com/)
+- [What Phyto Thrive Labs is](https://phytomemone-com.onrender.com/what-is-product.html)
+- [How Phyto Thrive Labs works](https://phytomemone-com.onrender.com/how-it-works.html)
+- [Phyto Thrive Labs ingredients, explained individually](https://phytomemone-com.onrender.com/ingredients.html)
+- [Phyto Thrive Labs benefits](https://phytomemone-com.onrender.com/benefits.html)
+- [Phyto Thrive Labs customer reviews](https://phytomemone-com.onrender.com/reviews.html)
+- [Phyto Thrive Labs frequently asked questions](https://phytomemone-com.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Phyto Thrive Labs](https://phytomemone-com.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Phyto Thrive Labs — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://phytomemone-com.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Phyto Thrive Labs's own label as a real example of what to look for.
+- [Phyto Thrive Labs: An Honest Review](https://phytomemone-com.onrender.com/blog/phyto-thrive-labs-honest-review.html): An honest look at Phyto Thrive Labs — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Vitamin B12 vs Vitamin B6: What Each Does In Phyto Thrive Labs](https://phytomemone-com.onrender.com/blog/vitamin-b12-vs-vitamin-b6.html): Vitamin B12 and Vitamin B6 are both in Phyto Thrive Labs but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Phyto Thrive Labs](https://phytomemone-com.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Phyto Thrive Labs as part of a brain health & cognitive wellness routine.
+- [Phyto Thrive Labs FAQ: Dosage, Timing, Who Should Skip It](https://phytomemone-com.onrender.com/blog/phyto-thrive-labs-faq.html): Common questions about Phyto Thrive Labs — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://phytomemone-com.onrender.com/terms.html)
+- [Privacy Policy](https://phytomemone-com.onrender.com/privacy-policy.html)
+- [Disclaimer](https://phytomemone-com.onrender.com/disclaimer.html)
+- [Refund Policy](https://phytomemone-com.onrender.com/refund-policy.html)
+- [About Us](https://phytomemone-com.onrender.com/about.html)
+- [Contact Us](https://phytomemone-com.onrender.com/contact.html)

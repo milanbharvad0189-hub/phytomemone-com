@@ -1,2 +1,0 @@
-# phytomemone-com
-Static site
